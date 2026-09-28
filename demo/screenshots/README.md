@@ -137,4 +137,4 @@ The screenshot should show:
 Filename:
 
     05-add-missing-person.png
-    <img width="820" height="797" alt="image" src="https://github.com/user-attachments/assets/0ed94a3d-5461-4eaf-82f6-98530e5a0758" />
+    <img width="820" height="797" alt="image" src="https://github.com/user-attachments/assets/6ff0b9ef-098e-4751-8209-ebab903d1050" />
