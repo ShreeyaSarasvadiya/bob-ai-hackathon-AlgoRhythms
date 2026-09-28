@@ -1,4 +1,4 @@
-# SafeSearch AI — Application Screenshots
+<img width="820" height="797" alt="image" src="https://github.com/user-attachments/assets/28431fc5-86b3-4341-80e2-268767b242af" /># SafeSearch AI — Application Screenshots
 
 This folder contains screenshots demonstrating the SafeSearch AI web application and its main features.
 
@@ -136,5 +136,6 @@ The screenshot should show:
 
 Filename:
 
-    05-add-missing-person.png
-    <img width="820" height="797" alt="image" src="https://github.com/user-attachments/assets/6ff0b9ef-098e-4751-8209-ebab903d1050" />
+   <img width="440" height="219" alt="image" src="https://github.com/user-attachments/assets/5e5c1f23-db3b-44df-a6d1-35c3fa190c74" />
+
+    
